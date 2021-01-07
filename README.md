@@ -11,6 +11,7 @@ Or, in your Home Assistant, navigate to _Configuration_ > _Add-ons, Backups & Su
 ## Add-ons provided by this repository
 - [Frigate NVR](frigate/README.md)
 - [Frigate NVR (Full Access)](frigate_fa/README.md)
+- [Frigate NVR (For old x86_64 CPUs)](frigate_oldcpu/README.md)
 - [Frigate NVR Beta](frigate_beta/README.md)
 - [Frigate NVR Beta (Full Access)](frigate_fa_beta/README.md)
 - [Frigate Proxy](frigate_proxy/README.md)
